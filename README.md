@@ -1,4 +1,4 @@
-<h1 align="center">Telegram bot that can parse all links on the site and send them to tg chat</h1>
+<h1 align="left">Telegram bot that can parse all links on the site and send them to tg chat</h1>
 <hr>
 <pre class="notranslate"><code>$ pip install requests
 </code></pre>
