@@ -1,4 +1,3 @@
-# CRYPTO_PARSING_TELEGRAM_BOT
 <h1 align="center">BS4 bot</h1>
 <h3 align="center">Telegram bot that can parse all links on the site and send them to tg chat</h3>
 
